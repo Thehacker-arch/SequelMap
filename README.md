@@ -1,2 +1,2 @@
-# interceptor
+# SequelMap
  under dev :)
